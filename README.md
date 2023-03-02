@@ -4,7 +4,7 @@ Features: The social media REST-API provides the following features:
 1) Exception Handling with correct http response codes.
 2) Connectivity with MySQL database
 3) Post and User management: view, edit, and delete posts/Users.
-4) Adding New User or Post for a user.
+4) Adding New User or Post for that user.
 5) Searching User by User ID or Post by Post ID.
 6) Retriving All posts made by a user.
 7) Retriving Story of a Post.
