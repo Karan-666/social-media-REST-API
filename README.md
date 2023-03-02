@@ -1,4 +1,4 @@
-This project is a simple social media based REST-API built with Java, Spring Boot, JPA, and connected with MySQL database. The REST-API provides a platform for users to perform CRUD (Create, Read, Update, and Delete) operations on user accounts and their posts. The API manage User and Post table, which follows a 'one to many' relationship.
+This project is a simple social media-based REST-API built with Java, Spring Boot, JPA, and connected with MySQL database. The REST-API provides a platform for users to perform CRUD (Create, Read, Update, and Delete) operations on user accounts and their posts. The API manages User and Post table, which follows a 'one to many' relationship.
 
 Features: The social media REST-API provides the following features:
 1) Exception Handling with correct http response codes.
