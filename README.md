@@ -11,14 +11,13 @@ Features: The social media REST-API provides the following features:
 
 
 Technology Stack: This project is built using the following technologies:
-Java: Java is a popular programming language used to build applications across various platforms.
+* Java: Java is a popular programming language used to build applications across various platforms.
 
-Spring Boot: Spring Boot is a framework that provides a platform for building standalone, production-grade applications that are easy to deploy.
+* Spring Boot: Spring Boot is a framework that provides a platform for building standalone, production-grade applications that are easy to deploy.
 
-JPA: Java Persistence API is a specification for object-relational mapping in Java.
+* JPA: Java Persistence API is a specification for object-relational mapping in Java.
 
-MySQL: MySQL is an open-source relational database management system.
-
+* MySQL: MySQL is an open-source relational database management system.
 
 
 The API was tested on Post Man, and Swagger was used to get the documentation.
