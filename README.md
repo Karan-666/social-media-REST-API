@@ -16,8 +16,7 @@ Spring Boot: Spring Boot is a framework that provides a platform for building st
 JPA: Java Persistence API is a specification for object-relational mapping in Java.
 MySQL: MySQL is an open-source relational database management system.
 
-The API was tested on Post Man
-Swagger was used to get the documentation.
+The API was tested on Post Man, and Swagger was used to get the documentation.
 
 Below are the documentations created by swagger:
 
